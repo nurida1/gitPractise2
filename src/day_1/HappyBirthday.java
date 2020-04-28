@@ -5,6 +5,8 @@ public class HappyBirthday {
         System.out.println("Happy Birthday B18");
         
         System.out.println("Happy Birthday B18 again, this line is edit from GitHub!");
+        
+        System.out.println("Nurida, You Are Amazing! Good job! keep up great work!")
     }
 
 
